@@ -1,7 +1,7 @@
 # Template V3 - Hello World
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-v3-hello-worldb.svg)](https://github.com/dirigiblelabs/template-v3-hello-world/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-v3-hello-world.svg)](https://github.com/dirigiblelabs/template-v3-hello-world/graphs/contributors)
 
 
 ## Overview
