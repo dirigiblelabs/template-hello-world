@@ -1,4 +1,4 @@
-# Template V3 - Hello World
+# Template - Hello World
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/template-v3-hello-world.svg)](https://github.com/dirigiblelabs/template-v3-hello-world/graphs/contributors)
@@ -8,8 +8,6 @@
 
 Simple "Hello World" JavaScript service
 ```javascript
-/* eslint-env node, dirigible */
-
 var response = require('http/v3/response');
 
 response.println('Hello World');
